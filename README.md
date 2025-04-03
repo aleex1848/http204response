@@ -17,5 +17,10 @@ Docker Build
 
 docker build -t your-tag .
 
+Pull from Docker Hub
+
+docker pull aleex1848/http204responder  
+  
+https://hub.docker.com/repository/docker/aleex1848/http204responder/general
 
 
